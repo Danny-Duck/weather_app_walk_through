@@ -7,5 +7,5 @@ The File requires the <a href="https://github.com/jnunemaker/httparty">httparty<
 ---
 ## Use
 - Clone this repo
-- Run: ruby ./weather_app_walk_through
+- Run: ruby ./weather_app_walk_through.rb
 - enjoy :)
